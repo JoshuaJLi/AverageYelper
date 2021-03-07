@@ -2,7 +2,7 @@ import asyncio
 from dataprep.eda import plot
 from dataprep.connector import connect
 
-auth_token = "55xi9MzvQHBUHjWf4TIPib6EaVrnpU-1TMR1J11SJ5xvx2vFtZF7rK-dHWUauOHocP-59tTB7Fg8ySlLjWghy4xqZSfVuwxCBQSNs_Pa2rsGTc40fWJaULC7MhhEYHYx"
+auth_token = "[put your auth token here]"
 
 #searchedCategory = (input("Give me a category")).lower()
 #searchedLocation = input("What location are you looking at? ")
